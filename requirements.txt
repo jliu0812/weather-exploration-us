@@ -2,3 +2,7 @@ pandas
 folium
 uszipcode
 python-Levenshtein
+jupysql
+duckdb
+duckdb-engine
+fsspec
